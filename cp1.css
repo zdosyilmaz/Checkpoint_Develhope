@@ -20,10 +20,11 @@
   }
   
   img {
-    width: 30%;
+    width: 70px;
   }
   
   input {
+    color: white;
     border-radius: 20px;
     margin-top: 10px;
     background-color: red;
@@ -36,6 +37,7 @@
   }
 
   .siyah{
+    margin-left: 40px;
     margin-right: auto;
     background-color: black;
     width: 50px;
